@@ -1,0 +1,30 @@
+hr {
+	height: 4px;
+	color: #BCBBBB;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-featured {
+	color: #BCBBBB;
+}
+
+.text-bottom {
+	color: #747704;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
